@@ -7,6 +7,8 @@
 
 ‼ Feel free to edit this datapack in any way, but please, don't forget to credit HatThing and kodayne.
 
+# Please keep in mind that the datapack is a huge WIP!!! Expect bugs, missing elements and etc.
+
 
 
 
